@@ -16,7 +16,8 @@ const GAME_STATES = [
     "Pillar 3",
     "Pillar 4",
     "Playback 3",
-    "Playback 4"
+    "Playback 4",
+    "End Show"
 ];
 
 let currentState = GAME_STATES[0];
